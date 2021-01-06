@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "https://portfolio-do-hackathon-cdmy3.ondigitalocean.app"
+baseURL = "https://portfolio-do-hackathon-y5tio.ondigitalocean.app/"
 theme = "somrat"
 title = "Dennis Lee's Portfolio"
 # disable language
