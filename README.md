@@ -42,3 +42,17 @@ This will delete the app and destroy any underlying DigitalOcean resources
 
 **Note: If you don't delete your app, charges for the use of DigitalOcean services will continue to accrue.**
 
+# Customizing the Homepage #
+
+You can customize the homepage by editing the YAML file located in the folder *data*.
+
+## Enabling a Section ##
+
+It is trivial to enable or disable a section within the homepage.
+
+Open the file **homepage.yml**, find the relevant section and edit the setting to **true** or **false**. For example:
+
+```
+portfolio:
+  enable : true
+```
