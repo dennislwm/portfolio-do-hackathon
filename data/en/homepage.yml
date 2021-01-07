@@ -127,6 +127,16 @@ call_to_action:
     label : "SAY HELLO!"
     link : "#contact"
 
+############################## rank #################################
+rank:
+  enable: true
+  title: "GLOBAL RANK"
+  rank_list:
+    - name: "Summary"
+      link: https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=dennislwm
+
+    - name: "Skills Chart"
+      link: https://cr-skills-chart-widget.azurewebsites.net/api/api?username=dennislwm
 
 ############################# portfolio ################################
 portfolio:
