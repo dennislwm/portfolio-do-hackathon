@@ -140,7 +140,7 @@ rank:
 
 ############################# portfolio ################################
 portfolio:
-  enable : false
+  enable : true
   title : "PORTFOLIO"
   portfolio_list:
     # portfolio item loop
@@ -236,7 +236,7 @@ portfolio:
 
 ################################# Testimonial #########################33
 testimonial:
-  enable : false
+  enable : true
   title : "TESTIMONIALS"
   testimonial_slider:
     # slider item loop

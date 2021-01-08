@@ -1,7 +1,7 @@
 spec:
   name: portfolio-do-hackathon
   static_sites:
-  - build_command: rm -r ./public; hugo --destination ./public
+  - build_command: rm -r ./public; hugo --minify --destination ./public
     environment_slug: hugo
     git:
       branch: main

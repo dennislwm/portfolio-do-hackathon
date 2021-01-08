@@ -52,13 +52,13 @@ name = "Home"
 weight = 1
 
 [[menu.main]]
-URL = "#about"
-name = "About me"
+URL = "#service"
+name = "Service"
 weight = 2
 
 [[menu.main]]
-URL = "#service"
-name = "Service"
+URL = "#about"
+name = "About me"
 weight = 3
 
 [[menu.main]]
@@ -66,15 +66,20 @@ URL = "#rank"
 name = "Rank"
 weight = 4
 
-#[[menu.main]]
-#URL = "#testimonial"
-#name = "Testimonial"
-#weight = 5
+[[menu.main]]
+URL = "#portfolio"
+name = "Portfolio"
+weight = 5
+
+[[menu.main]]
+URL = "#testimonial"
+name = "Testimonial"
+weight = 6
 
 [[menu.main]]
 URL = "#contact"
 name = "Contact"
-weight = 6
+weight = 7
 
 #################### default parameters ################################
 [params]
