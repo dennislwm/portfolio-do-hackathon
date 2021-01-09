@@ -34,7 +34,7 @@ about:
   enable : true
   image : "images/backgrounds/portrait.jpg"
   title : "KNOW MORE <br> ABOUT ME"
-  content : "It's Somrat, Professional Web Developer. I love to write code, it's my passion. I am here to help you, i am here to design your web page. i can help you to describe yourself in the best way.<br>No matter how difficult your web page is, i will find an easy way and complete your work anyway. Stay connect with me............😊"
+  content : "Beyond just a job, I am focused on a meaningful career that aligns both my spiritual and financial goals, and allows me to apply my leadership, organizational and technical skills. In essence, I believe in a multi-disciplinary approach, self-motivation and a desire to contribute to the greater community."
   # button
   button:
     enable : true
@@ -48,22 +48,27 @@ experience:
   experience_list:
     # experience item loop
     - name : "Web Developer"
-      company : "Fiverr.com"
-      duration : "2016-2018"
-      content : "I work with HTML, CSS, and Javascript to create websites and web applications like Personal, Business, Blog, E-commerce etc."
+      company : "Euro Asia Motorwekz"
+      duration : "2017-2020"
+      content : "IT Consultant providing development and maintenance support."
       
     # experience item loop
-    - name : "Graphic Designer"
-      company : "Fiverr.com"
-      duration : "2015-2018"
-      content : "Graphic design is art with a purpose. I love illustration, so logo desing is my favorite work. But i can do many things with graphics."
+    - name : "Securities Broker"
+      company : "Lim and Tan Securities"
+      duration : "2010-2017"
+      content : "Provides stock recommendations and carry out trades on behalf of clients based on their instructions."
       
     # experience item loop
-    - name : "Database Manager"
-      company : "Polytechnic"
-      duration : "2014-2018"
-      content : "Database management is among the fundamental processes in the software field of computing. I know MS Access very well."
+    - name : "Investment Manager / Analyst"
+      company : "Phillip Securities"
+      duration : "2005-2009"
+      content : "Asset allocation, portfolio construction and rigorous stock analysis are key aspects of my role in managing client portfolios to generate a target return according to client mandates."
 
+    # experience item loop
+    - name : "Software Developer"
+      company : "Australia"
+      duration : "1994-2004"
+      content : "Worked for 15 years as software and project engineer in Australia, and have acquired a high level of expertise working on various exciting projects in digitalization and service enhancements to improve user experiences."
 
 ############################### Skill #################################
 skill:
@@ -71,20 +76,24 @@ skill:
   title : "SKILL"
   skill_list:
     # skill item loop
-    - name : "Web Development"
-      percentage : "98%"
+    - name : "Business Analyst"
+      percentage : "95%"
+
+    # skill item loop
+    - name : "Cloud Engineer"
+      percentage : "93%"
       
     # skill item loop
-    - name : "Graphic Design"
-      percentage : "85%"
+    - name : "Data Scientist"
+      percentage : "82%"
+
+    # skill item loop
+    - name : "Backend Developer"
+      percentage : "82%"
       
     # skill item loop
-    - name : "Database Management"
-      percentage : "90%"
-      
-    # skill item loop
-    - name : "Wordpress"
-      percentage : "70%"
+    - name : "Frontend Developer"
+      percentage : "55%"
 
 
 ################################### Service ##############################3
@@ -162,76 +171,76 @@ portfolio:
       category : "Web Development"
       
     # portfolio item loop
-    - name : "Project <br> Title"
-      image : "images/portfolio/item4.jpg"
-      date : "Feb 2018"
-      category : "Web Development"
+    #- name : "Project <br> Title"
+    #  image : "images/portfolio/item4.jpg"
+    #  date : "Feb 2018"
+    #  category : "Web Development"
       
     # portfolio item loop
-    - name : "Project <br> Title"
-      image : "images/portfolio/item5.jpg"
-      date : "Feb 2018"
-      category : "Web Development"
+    #- name : "Project <br> Title"
+    #  image : "images/portfolio/item5.jpg"
+    #  date : "Feb 2018"
+    #  category : "Web Development"
       
     # portfolio item loop
-    - name : "Project <br> Title"
-      image : "images/portfolio/item6.jpg"
-      date : "Feb 2018"
-      category : "Web Development"
+    #- name : "Project <br> Title"
+    #  image : "images/portfolio/item6.jpg"
+    #  date : "Feb 2018"
+    #  category : "Web Development"
       
     # portfolio item loop
-    - name : "Project <br> Title"
-      image : "images/portfolio/item7.jpg"
-      date : "Feb 2018"
-      category : "Graphics"
+    #- name : "Project <br> Title"
+    #  image : "images/portfolio/item7.jpg"
+    #  date : "Feb 2018"
+    #  category : "Graphics"
       
     # portfolio item loop
-    - name : "Project <br> Title"
-      image : "images/portfolio/item8.jpg"
-      date : "Feb 2018"
-      category : "Graphics"
+    #- name : "Project <br> Title"
+    #  image : "images/portfolio/item8.jpg"
+    #  date : "Feb 2018"
+    #  category : "Graphics"
       
     # portfolio item loop
-    - name : "Project <br> Title"
-      image : "images/portfolio/item9.jpg"
-      date : "Feb 2018"
-      category : "Database"
+    #- name : "Project <br> Title"
+    #  image : "images/portfolio/item9.jpg"
+    #  date : "Feb 2018"
+    #  category : "Database"
       
     # portfolio item loop
-    - name : "Project <br> Title"
-      image : "images/portfolio/item10.jpg"
-      date : "Feb 2018"
-      category : "Database"
+    #- name : "Project <br> Title"
+    #  image : "images/portfolio/item10.jpg"
+    #  date : "Feb 2018"
+    #  category : "Database"
       
     # portfolio item loop
-    - name : "Project <br> Title"
-      image : "images/portfolio/item11.jpg"
-      date : "Feb 2018"
-      category : "Database"
+    #- name : "Project <br> Title"
+    #  image : "images/portfolio/item11.jpg"
+    #  date : "Feb 2018"
+    #  category : "Database"
       
     # portfolio item loop
-    - name : "Project <br> Title"
-      image : "images/portfolio/item12.jpg"
-      date : "Feb 2018"
-      category : "Graphics"
+    #- name : "Project <br> Title"
+    #  image : "images/portfolio/item12.jpg"
+    #  date : "Feb 2018"
+    #  category : "Graphics"
       
     # portfolio item loop
-    - name : "Project <br> Title"
-      image : "images/portfolio/item13.jpg"
-      date : "Feb 2018"
-      category : "Graphics"
+    #- name : "Project <br> Title"
+    #  image : "images/portfolio/item13.jpg"
+    #  date : "Feb 2018"
+    #  category : "Graphics"
       
     # portfolio item loop
-    - name : "Project <br> Title"
-      image : "images/portfolio/item14.jpg"
-      date : "Feb 2018"
-      category : "Graphics"
+    #- name : "Project <br> Title"
+    #  image : "images/portfolio/item14.jpg"
+    #  date : "Feb 2018"
+    #  category : "Graphics"
       
     # portfolio item loop
-    - name : "Project <br> Title"
-      image : "images/portfolio/item15.jpg"
-      date : "Feb 2018"
-      category : "Graphics"
+    #- name : "Project <br> Title"
+    #  image : "images/portfolio/item15.jpg"
+    #  date : "Feb 2018"
+    #  category : "Graphics"
 
 
 ################################# Testimonial #########################33
